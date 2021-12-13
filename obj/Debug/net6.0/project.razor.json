@@ -12,92 +12,6 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": -1129345640,
-        "Kind": "Components.Component",
-        "Name": "BlazorApp.Pages.FetchData",
-        "AssemblyName": "BlazorApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorApp.Pages.FetchData"
-        }
-      },
-      {
-        "HashCode": 1212774182,
-        "Kind": "Components.Component",
-        "Name": "BlazorApp.Pages.FetchData",
-        "AssemblyName": "BlazorApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorApp.Pages.FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorApp.Pages.FetchData",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1385100284,
-        "Kind": "Components.Component",
-        "Name": "BlazorApp.Pages.Counter",
-        "AssemblyName": "BlazorApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Counter"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "IncrementAmount",
-            "TypeName": "System.Int32",
-            "Metadata": {
-              "Common.PropertyName": "IncrementAmount"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorApp.Pages.Counter"
-        }
-      },
-      {
-        "HashCode": 1918277794,
-        "Kind": "Components.Component",
-        "Name": "BlazorApp.Pages.Counter",
-        "AssemblyName": "BlazorApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorApp.Pages.Counter"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "IncrementAmount",
-            "TypeName": "System.Int32",
-            "Metadata": {
-              "Common.PropertyName": "IncrementAmount"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorApp.Pages.Counter",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -1033456378,
         "Kind": "Components.Component",
         "Name": "BlazorApp.Pages.Index",
@@ -131,35 +45,137 @@
         }
       },
       {
-        "HashCode": 143719532,
+        "HashCode": -1513562835,
         "Kind": "Components.Component",
-        "Name": "BlazorApp.App",
+        "Name": "BlazorApp.Pages.Counter",
         "AssemblyName": "BlazorApp",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "App"
+            "TagName": "Counter"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "StartingValue",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "StartingValue"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "IncrementAmount",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "IncrementAmount"
+            }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorApp.App"
+          "Common.TypeName": "BlazorApp.Pages.Counter"
         }
       },
       {
-        "HashCode": 1842977984,
+        "HashCode": -944892442,
         "Kind": "Components.Component",
-        "Name": "BlazorApp.App",
+        "Name": "BlazorApp.Pages.Counter",
         "AssemblyName": "BlazorApp",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazorApp.App"
+            "TagName": "BlazorApp.Pages.Counter"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "StartingValue",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "StartingValue"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "IncrementAmount",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "IncrementAmount"
+            }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorApp.App",
+          "Common.TypeName": "BlazorApp.Pages.Counter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1129345640,
+        "Kind": "Components.Component",
+        "Name": "BlazorApp.Pages.FetchData",
+        "AssemblyName": "BlazorApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorApp.Pages.FetchData"
+        }
+      },
+      {
+        "HashCode": 1212774182,
+        "Kind": "Components.Component",
+        "Name": "BlazorApp.Pages.FetchData",
+        "AssemblyName": "BlazorApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorApp.Pages.FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorApp.Pages.FetchData",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -548065204,
+        "Kind": "Components.Component",
+        "Name": "BlazorApp.Pages.ToDo",
+        "AssemblyName": "BlazorApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ToDo"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorApp.Pages.ToDo"
+        }
+      },
+      {
+        "HashCode": 57170689,
+        "Kind": "Components.Component",
+        "Name": "BlazorApp.Pages.ToDo",
+        "AssemblyName": "BlazorApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorApp.Pages.ToDo"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorApp.Pages.ToDo",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -342,6 +358,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "BlazorApp.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 143719532,
+        "Kind": "Components.Component",
+        "Name": "BlazorApp.App",
+        "AssemblyName": "BlazorApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorApp.App"
+        }
+      },
+      {
+        "HashCode": 1842977984,
+        "Kind": "Components.Component",
+        "Name": "BlazorApp.App",
+        "AssemblyName": "BlazorApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorApp.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorApp.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -16631,6 +16680,11 @@
   },
   "RootNamespace": "BlazorApp",
   "Documents": [
+    {
+      "FilePath": "/Users/razvan/Coding/Blazor/BlazorApp/Pages/ToDo.razor",
+      "TargetPath": "Pages\\ToDo.razor",
+      "FileKind": "component"
+    },
     {
       "FilePath": "/Users/razvan/Coding/Blazor/BlazorApp/Pages/Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
